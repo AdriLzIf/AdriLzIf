@@ -8,3 +8,6 @@
 Languages I can speak:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1280px-Flag_of_Spain.svg.png" alt="Flag of Spain" width="40" height="25"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1280px-Flag_of_the_United_Kingdom.svg.png" alt="Flag of UK" width="40" height="25"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Catalonia.svg/320px-Flag_of_Catalonia.svg.png" alt="Senyera" width="40" height="25">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdriLzIf&show_icons=true&theme=radical)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdriLzIf&layout=compact&theme=radical) -->
