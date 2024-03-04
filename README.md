@@ -2,6 +2,7 @@
 
 #### Languages and tools:
 [![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![jscript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 [![Bash](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
@@ -19,3 +20,6 @@
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdriLzIf&layout=compact&theme=radical) -->
 
 #### Contact me:
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev)
