@@ -18,7 +18,7 @@
 
 ### About me
 <div style="text-align: justify; max-width: 600px; margin: 0 auto;">
-  <p>My name is Adrián, I'm a 19 years old passionate and enthusiast web app development student currently living in Barcelona, Spain.</p> My hobbies include playing video games, listening to music, exploring geography, and embarking on journeys around the world.</p> My main goals are living and working abroad to enrich my culture and to gain experience for becoming a professional programmer.</p>
+  <p>My name is Adrián, I'm a 19 years old passionate and enthusiast web app development student currently living in Barcelona, Spain.</p> My hobbies include playing videogames, listening to music, learning about geography and flags, and traveling around the world.</p> My main goals are living and working abroad to enrich my culture and to gain experience for becoming a professional programmer.</p>
 </div>
 
 <br>
